@@ -21,3 +21,5 @@
 - Maven
 - jdk 16
 - JSON.simple (liblary by google)
+- database schema: https://dbdiagram.io/d/62bd985669be0b672c741d78
+
